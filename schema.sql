@@ -1,5 +1,5 @@
-/*create database inventiolite;*/
-use inventiolite;
+/*create database inventarios;*/
+use inventarios;
 
 create table user(
 	id int not null auto_increment primary key,
